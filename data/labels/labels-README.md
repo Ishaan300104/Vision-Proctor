@@ -7,4 +7,4 @@ This folder should contain your training data labels in where there would be 3 d
 
 It also contains one classes.txt file that contains the name of classes that I've used.
 
-Filename should be of the format: "<label>.<imagename>.txt"
+Filename should be of the format: "label.imagename.txt"
