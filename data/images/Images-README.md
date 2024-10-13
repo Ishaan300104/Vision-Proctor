@@ -6,3 +6,5 @@ This folder should contain your training data which is basically your photos in 
 3. covering mouth (WARNING!)
 
 In my case, I've used 15*3 = 45 images for the training YOLOv5s model
+
+Filename should be of the format: <label>.<imagename>.png
